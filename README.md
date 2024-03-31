@@ -1,2 +1,0 @@
-# naveenExcelR
-Excelr
